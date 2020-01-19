@@ -1,6 +1,8 @@
 """
 Basic Implementation of Naive Bayes Algorithm without Laplace Smoothing
 
+THEORY :
+
 Bayes Rule ->
 
 P(A/B) = (P(B/A) * P(A))/P(B)
