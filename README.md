@@ -1,2 +1,5 @@
 # Notes
-Notes about different stuff
+
+### Implemenations of ML Algorithms
+
+Naive Bayes(https://github.com/nilansaha/Notes/blob/master/naive_bayes.py)
